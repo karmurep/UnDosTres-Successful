@@ -1,0 +1,106 @@
+2022-08-10 13:47:10,000 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 13:47:15,399 [main] INFO UnDosTres framework - url get launced
+2022-08-10 13:47:16,598 [main] INFO UnDosTres framework - browser closed
+2022-08-10 14:17:03,715 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 14:17:09,261 [main] INFO UnDosTres framework - url get launced
+2022-08-10 14:17:09,613 [main] INFO UnDosTres framework - Numero de celular entered
+2022-08-10 14:17:11,665 [main] INFO UnDosTres framework - Operador clicked 
+2022-08-10 14:17:14,026 [main] INFO UnDosTres framework - clicked on Telcel 
+2022-08-10 14:17:15,121 [main] INFO UnDosTres framework - clicked on Monto de Recarga 
+2022-08-10 14:17:16,289 [main] INFO UnDosTres framework - clicked on $10 
+2022-08-10 14:17:17,887 [main] INFO UnDosTres framework - clicked on siguiente 
+2022-08-10 14:17:20,008 [main] INFO UnDosTres framework - browser closed
+2022-08-10 14:54:30,055 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 14:54:50,908 [main] INFO UnDosTres framework - url get launced
+2022-08-10 14:54:52,052 [main] INFO UnDosTres framework - Numero de celular entered
+2022-08-10 14:54:53,233 [main] INFO UnDosTres framework - Operador clicked 
+2022-08-10 14:54:54,755 [main] INFO UnDosTres framework - clicked on Telcel 
+2022-08-10 14:54:55,852 [main] INFO UnDosTres framework - clicked on Monto de Recarga 
+2022-08-10 14:54:57,128 [main] INFO UnDosTres framework - clicked on $10 
+2022-08-10 14:54:58,797 [main] INFO UnDosTres framework - clicked on siguiente 
+2022-08-10 14:55:00,409 [main] INFO UnDosTres framework - browser closed
+2022-08-10 14:55:01,504 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 14:55:12,238 [main] INFO UnDosTres framework - url get launced
+2022-08-10 14:55:23,935 [main] INFO UnDosTres framework - browser closed
+2022-08-10 15:04:09,857 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 15:04:20,646 [main] INFO UnDosTres framework - url get launced
+2022-08-10 15:04:20,982 [main] INFO UnDosTres framework - Numero de celular entered
+2022-08-10 15:04:22,123 [main] INFO UnDosTres framework - Operador clicked 
+2022-08-10 15:04:26,688 [main] INFO UnDosTres framework - clicked on Telcel 
+2022-08-10 15:04:27,802 [main] INFO UnDosTres framework - clicked on Monto de Recarga 
+2022-08-10 15:04:28,963 [main] INFO UnDosTres framework - clicked on $10 
+2022-08-10 15:04:33,186 [main] INFO UnDosTres framework - clicked on siguiente 
+2022-08-10 15:04:44,455 [main] INFO UnDosTres framework - clicked on Tarjeta
+2022-08-10 15:04:45,545 [main] INFO UnDosTres framework - select radio button UsarNuevaTarjeta 
+2022-08-10 15:04:46,666 [main] INFO UnDosTres framework - Card Number is entered 
+2022-08-10 15:04:47,802 [main] INFO UnDosTres framework - month is entered 
+2022-08-10 15:04:48,942 [main] INFO UnDosTres framework - date is entered 
+2022-08-10 15:04:50,052 [main] INFO UnDosTres framework - cvv is entered 
+2022-08-10 15:04:51,209 [main] INFO UnDosTres framework - correo Electronico is entered 
+2022-08-10 15:04:52,376 [main] INFO UnDosTres framework - Pagar con Tarjeta is entered 
+2022-08-10 15:04:53,889 [main] INFO UnDosTres framework - browser closed
+2022-08-10 15:24:15,720 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 15:24:20,341 [main] INFO UnDosTres framework - url get launced
+2022-08-10 15:24:20,599 [main] INFO UnDosTres framework - Numero de celular entered
+2022-08-10 15:24:21,887 [main] INFO UnDosTres framework - Operador clicked 
+2022-08-10 15:24:23,279 [main] INFO UnDosTres framework - clicked on Telcel 
+2022-08-10 15:24:24,429 [main] INFO UnDosTres framework - clicked on Monto de Recarga 
+2022-08-10 15:24:26,032 [main] INFO UnDosTres framework - clicked on $10 
+2022-08-10 15:24:27,629 [main] INFO UnDosTres framework - clicked on siguiente 
+2022-08-10 15:24:30,845 [main] INFO UnDosTres framework - clicked on Tarjeta
+2022-08-10 15:24:31,930 [main] INFO UnDosTres framework - select radio button UsarNuevaTarjeta 
+2022-08-10 15:24:33,117 [main] INFO UnDosTres framework - Card Number is entered 
+2022-08-10 15:24:34,260 [main] INFO UnDosTres framework - month is entered 
+2022-08-10 15:24:35,353 [main] INFO UnDosTres framework - date is entered 
+2022-08-10 15:24:36,437 [main] INFO UnDosTres framework - cvv is entered 
+2022-08-10 15:24:37,580 [main] INFO UnDosTres framework - correo Electronico is entered 
+2022-08-10 15:24:38,788 [main] INFO UnDosTres framework - Pagar con Tarjeta is entered 
+2022-08-10 15:24:39,941 [main] INFO UnDosTres framework - username entered
+2022-08-10 15:24:41,156 [main] INFO UnDosTres framework - password entered
+2022-08-10 15:24:42,384 [main] INFO UnDosTres framework - clicked on captcha
+2022-08-10 15:24:43,570 [main] INFO UnDosTres framework - clicked on submit
+2022-08-10 15:24:45,117 [main] INFO UnDosTres framework - browser closed
+2022-08-10 15:25:30,013 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 15:25:34,786 [main] INFO UnDosTres framework - url get launced
+2022-08-10 15:25:35,028 [main] INFO UnDosTres framework - Numero de celular entered
+2022-08-10 15:25:37,095 [main] INFO UnDosTres framework - Operador clicked 
+2022-08-10 15:25:38,730 [main] INFO UnDosTres framework - clicked on Telcel 
+2022-08-10 15:25:39,837 [main] INFO UnDosTres framework - clicked on Monto de Recarga 
+2022-08-10 15:25:40,967 [main] INFO UnDosTres framework - clicked on $10 
+2022-08-10 15:25:45,944 [main] INFO UnDosTres framework - clicked on siguiente 
+2022-08-10 15:25:47,059 [main] INFO UnDosTres framework - clicked on Tarjeta
+2022-08-10 15:25:48,153 [main] INFO UnDosTres framework - select radio button UsarNuevaTarjeta 
+2022-08-10 15:25:49,323 [main] INFO UnDosTres framework - Card Number is entered 
+2022-08-10 15:25:50,503 [main] INFO UnDosTres framework - month is entered 
+2022-08-10 15:25:51,601 [main] INFO UnDosTres framework - date is entered 
+2022-08-10 15:25:52,670 [main] INFO UnDosTres framework - cvv is entered 
+2022-08-10 15:25:53,812 [main] INFO UnDosTres framework - correo Electronico is entered 
+2022-08-10 15:25:54,982 [main] INFO UnDosTres framework - Pagar con Tarjeta is entered 
+2022-08-10 15:25:56,136 [main] INFO UnDosTres framework - username entered
+2022-08-10 15:25:57,318 [main] INFO UnDosTres framework - password entered
+2022-08-10 15:25:58,522 [main] INFO UnDosTres framework - clicked on captcha
+2022-08-10 15:25:59,710 [main] INFO UnDosTres framework - clicked on submit
+2022-08-10 15:26:06,187 [main] INFO UnDosTres framework - browser closed
+2022-08-10 15:29:05,110 [main] INFO UnDosTres framework - Chrome browser Launched
+2022-08-10 15:29:10,752 [main] INFO UnDosTres framework - url get launced
+2022-08-10 15:29:11,105 [main] INFO UnDosTres framework - Numero de celular entered
+2022-08-10 15:29:12,948 [main] INFO UnDosTres framework - Operador clicked 
+2022-08-10 15:29:15,458 [main] INFO UnDosTres framework - clicked on Telcel 
+2022-08-10 15:29:16,555 [main] INFO UnDosTres framework - clicked on Monto de Recarga 
+2022-08-10 15:29:17,729 [main] INFO UnDosTres framework - clicked on $10 
+2022-08-10 15:29:19,338 [main] INFO UnDosTres framework - clicked on siguiente 
+2022-08-10 15:29:19,339 [main] INFO UnDosTres framework - open next screen(Payment screen)
+2022-08-10 15:29:23,034 [main] INFO UnDosTres framework - clicked on Tarjeta
+2022-08-10 15:29:24,125 [main] INFO UnDosTres framework - select radio button UsarNuevaTarjeta 
+2022-08-10 15:29:25,311 [main] INFO UnDosTres framework - Card Number is entered 
+2022-08-10 15:29:26,429 [main] INFO UnDosTres framework - month is entered 
+2022-08-10 15:29:27,536 [main] INFO UnDosTres framework - date is entered 
+2022-08-10 15:29:28,612 [main] INFO UnDosTres framework - cvv is entered 
+2022-08-10 15:29:29,764 [main] INFO UnDosTres framework - correo Electronico is entered 
+2022-08-10 15:29:30,926 [main] INFO UnDosTres framework - Pagar con Tarjeta is entered 
+2022-08-10 15:29:32,111 [main] INFO UnDosTres framework - username entered
+2022-08-10 15:29:33,272 [main] INFO UnDosTres framework - password entered
+2022-08-10 15:29:34,457 [main] INFO UnDosTres framework - clicked on captcha
+2022-08-10 15:29:35,594 [main] INFO UnDosTres framework - clicked on submit
+2022-08-10 15:29:35,595 [main] INFO UnDosTres framework -  showwing success message on screen
+2022-08-10 15:29:42,135 [main] INFO UnDosTres framework - browser closed
